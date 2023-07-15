@@ -11,8 +11,6 @@
 
 ![emrsc1's GitHub stats](https://github-readme-stats.vercel.app/api?username=emrsc1&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrsc1&layout=compact)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emrsc1&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
