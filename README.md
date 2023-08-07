@@ -11,7 +11,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emrsc1&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-contributor-stats.vercel.app/api?username=bahriakcan09&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=emrsc1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
   
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
