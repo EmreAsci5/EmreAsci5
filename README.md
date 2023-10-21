@@ -32,3 +32,7 @@
 ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=emrsc1&&style=flat-square" align="center" />
+</div>  
+
